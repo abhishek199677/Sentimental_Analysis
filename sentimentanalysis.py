@@ -4,6 +4,8 @@ from dotenv import load_dotenv
 import os
 
 
+
+
 load_dotenv()
 
 EURI_API_KEY = os.getenv("EURI_API_KEY")
